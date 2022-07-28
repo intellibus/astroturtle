@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "astroturtle",
-  "version": "1.0.5",
+  "version": "1.0.0",
   "description": "Plugin API Library For Turtle Tab Management",
   "author": "Intellibus Labs <labs@intellibus.com> (https://intellibus.dev/)",
   "license": "MIT",

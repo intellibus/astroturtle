@@ -3,7 +3,9 @@
 ![Astroturtle — Plugin API Library For Turtle Tab Management](assets/astroturtle.png)
 
 > **THIS PROJECT IS STILL IN THE DESIGN PHASE**
+>
 > IDEAS & CONTRIBUTIONS ARE WELCOME
+>
 > An [Open Source Universe](https://github.com/intellibus/approach) Project
 
 ---
